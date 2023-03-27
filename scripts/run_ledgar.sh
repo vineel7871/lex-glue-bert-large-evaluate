@@ -1,7 +1,7 @@
 GPU_NUMBER=0
 MODEL_NAME='pile-of-law/legalbert-large-1.7M-2'
 LOWER_CASE='True'
-BATCH_SIZE=8
+BATCH_SIZE=3
 ACCUMULATION_STEPS=1
 TASK='ledgar'
 
