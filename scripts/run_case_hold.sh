@@ -1,5 +1,5 @@
 GPU_NUMBER=0
-MODEL_NAME='bert-base-uncased'
+MODEL_NAME='pile-of-law/legalbert-large-1.7M-2'
 BATCH_SIZE=8
 ACCUMULATION_STEPS=1
 TASK='case_hold'
